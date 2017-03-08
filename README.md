@@ -15,6 +15,8 @@
 4. 设置path  
 5. geckodriver for firefox  
 6. test  
+
+
 ------  
 
 1. python环境，anaconda，一步步next就可以了（记得勾选path的选项）  
