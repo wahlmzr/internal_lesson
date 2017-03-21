@@ -44,7 +44,7 @@ def close_connect(connect,cursor):
 connect,cursor = create_connect()
 
 
-for i in range(21300,21310):
+for i in range(10000,100000):
     
     if i%100 == 0:
         print ('已爬 '+str(i))
