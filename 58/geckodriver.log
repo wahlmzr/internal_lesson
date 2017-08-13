@@ -1,0 +1,55 @@
+1490196780521	geckodriver	INFO	Listening on 127.0.0.1:8745
+1490196782469	mozprofile::profile	INFO	Using profile path C:\Users\wahlmzr\AppData\Local\Temp\rust_mozprofile.JGOeZAWNxZAA
+1490196782471	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\mozilla firefox\firefox.exe
+1490196782537	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8756
+1490196783685	Marionette	INFO	Listening on port 8756
+1490196785287	Marionette	INFO	startBrowser 75fe2a15-d831-416c-a65e-d76d76f0a7bd
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/boot_listpage_version_v20170111173533.js, line 1: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/common/0.1/v6/source/44e6fd12e45082e643085eca82b132ea_v1475047097414.js, line 1: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/boot_listpage_version_v20170111173533.js, line 1: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/detail/0.1/js/job_detail_v20170320204623.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/detail/0.1/js/job.detail.bangbang_v20170104.js, line 4: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/js/5_1/jquery1.3.2.js, line 8: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.3&ak=&services=&t=20150527115231, line 1: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: https://passport.58.com/static_js/js/login/usernamelogin_v20170221152627.js, line 1: ReferenceError: TDC is not defined
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/boot_listpage_version_v20170111173533.js, line 1: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/listpage_v20170315170802.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/common/0.1/v6/source/44e6fd12e45082e643085eca82b132ea_v1475047097414.js, line 1: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/list/0.1/boot_listpage_version_v20170111173533.js, line 1: unreachable code after return statement
+1490197777994	geckodriver	INFO	Listening on 127.0.0.1:9321
+1490197779860	mozprofile::profile	INFO	Using profile path C:\Users\wahlmzr\AppData\Local\Temp\rust_mozprofile.62GiaKGVHall
+1490197779862	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\mozilla firefox\firefox.exe
+1490197779932	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9327
+1490197781065	Marionette	INFO	Listening on port 9327
+1490197782765	Marionette	INFO	startBrowser a667c307-0559-4393-b599-1db0640016c4
+1490197814090	geckodriver	INFO	Listening on 127.0.0.1:9352
+1490197816040	mozprofile::profile	INFO	Using profile path C:\Users\wahlmzr\AppData\Local\Temp\rust_mozprofile.NqYpBSicvtBP
+1490197816042	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\mozilla firefox\firefox.exe
+1490197816113	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9360
+1490197817184	Marionette	INFO	Listening on port 9360
+1490197818624	Marionette	INFO	startBrowser e6bf10d0-e263-4a5b-978e-6a1ca38360dc
+[Child 7760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490199685669	geckodriver	INFO	Listening on 127.0.0.1:11351
+1490199687649	mozprofile::profile	INFO	Using profile path C:\Users\wahlmzr\AppData\Local\Temp\rust_mozprofile.eE6D6P6RDGgI
+1490199687652	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\mozilla firefox\firefox.exe
+1490199687739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11357
+1490199688939	Marionette	INFO	Listening on port 11357
+1490199690552	Marionette	INFO	startBrowser 17580705-3d8e-44b0-a73c-a53309619e6e
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/detail/0.1/js/job_detail_v20170320204623.js, line 2: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/job/pc/full/detail/0.1/js/job.detail.bangbang_v20170104.js, line 4: unreachable code after return statement
+JavaScript warning: http://j1.58cdn.com.cn/js/5_1/jquery1.3.2.js, line 8: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.3&ak=&services=&t=20150527115231, line 1: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript warning: http://j2.58cdn.com.cn/js/v7/hp/doneA_1531054799645.js, line 3: unreachable code after return statement
